@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<title>FPArchive</title>
+<title>Fancy Pants Archive</title>
 <style>
 a{font-size: large;}
 </style>
