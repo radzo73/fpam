@@ -11,5 +11,3 @@ layout: default
   <a href="FPAW2M.html">FPA World 2: Enhanced</a><br />
   <a href="FPAW3.html">FPA World 3</a><br />
   <a href="FPAW3M.html">FPA World 3: Enhanced</a><br />
-  
-</div>
