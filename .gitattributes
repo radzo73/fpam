@@ -1,0 +1,7 @@
+ME2D.swf filter=lfs diff=lfs merge=lfs -text
+FPAW1M.swf filter=lfs diff=lfs merge=lfs -text
+FPAW2M.swf filter=lfs diff=lfs merge=lfs -text
+FPAWorld1_07b.swf filter=lfs diff=lfs merge=lfs -text
+FPAWorld2.swf filter=lfs diff=lfs merge=lfs -text
+FPAW3M.swf filter=lfs diff=lfs merge=lfs -text
+FPAW3SuperShell.swf filter=lfs diff=lfs merge=lfs -text
