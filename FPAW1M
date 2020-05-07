@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<title>FPA: World 1 Enhanced</title>
+<div align="center">
+<br />
+<object align="middle" data="FPAW1M.swf" height="480" type="application/x-shockwave-flash" width="720"></object>
