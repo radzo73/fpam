@@ -8,4 +8,4 @@ layout: default
 <div>
 <p><span contenteditable="false" tabindex="-1"><a data-widget="image" href="http://www.adobe.com/go/getflashplayer"><img alt="Get Adobe Flash player" src="https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" /></a></span></p>
 </div>
-<param name="movie" value="ME2D.swf" /><param name="bgcolor" value="#999999" /><param name="FlashVars" value="var1=Hello&amp;var2=Goodbye" /><param name="allowscriptaccess" value="sameDomain" /><param name="wmode" value="low" />
+<param name="movie" value="ME2D.swf" /><param name="bgcolor" value="#999999" /><param name="FlashVars" value="var1=Hello&amp;var2=Goodbye" /><param name="wmode" value="low" />
