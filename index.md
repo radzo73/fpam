@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<title>test</title>
+<title>FPArchive</title>
 <style>
 a{font-size: large;}
 </style>
