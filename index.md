@@ -3,7 +3,7 @@ layout: default
 ---
 <title>Fancy Pants Archive</title>
 <style>
-a{font-size: large;}
+a{font-size: xxx-large;}
 </style>
 <div align = "center">
   <br /><br /><br /><br /><br /><br />
