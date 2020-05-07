@@ -2,6 +2,9 @@
 layout: default
 ---
 <title>test</title>
+<style>
+a{font-size: large;}
+</style>
 <div align = "center">
   <br /><br /><br /><br /><br /><br />
   <a href="ME2D.html">Mirror's Edge 2D</a><br />
