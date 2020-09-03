@@ -1,3 +1,2 @@
-FPAW3M.swf filter=lfs diff=lfs merge=lfs -text Content-Type: application/x-shockwave-flash
-FPAW3SuperShell.swf filter=lfs diff=lfs merge=lfs -text Content-Type: application/x-shockwave-flash
-/W3/*.swf filter=lfs diff=lfs merge=lfs -text Content-Type: application/x-shockwave-flash
+FPAW3M.swf filter=lfs diff=lfs merge=lfs -text
+FPAW3SuperShell.swf filter=lfs diff=lfs merge=lfs -text
