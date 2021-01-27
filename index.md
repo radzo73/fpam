@@ -4,14 +4,59 @@ layout: default
 <title>Fancy Pants Archive</title>
 <style>
 a{font-size: xxx-large;}
+table{width: 100%; align: middle;}
 </style>
-<div align = "center">
-  <br /><br /><br /><br /><br /><br />
-  <a href="ME2D.html">Mirror's Edge 2D</a><br />
-  <a href="FPAW1.html">FPA World 1</a><br />
-  <a href="FPAW1M.html">FPA World 1: Enhanced</a><br />
-  <a href="FPAW2.html">FPA World 2</a><br />
-  <a href="FPAW2.8.html">FPA World 2 (1.8a)</a><br />
-  <a href="FPAW2M.html">FPA World 2: Enhanced</a><br />
-  <a href="FPAW3.html">FPA World 3</a><br />
-  <a href="FPAW3M.html">FPA World 3: Enhanced</a><br />
+
+<table>
+  <tr>
+    <th>Ruffle versions</th>
+  </tr>
+  <tr>
+    <th />FPW1
+    <th />FPW2
+    <th />FPW3
+    <th />FPW1R
+    <th />ME2D
+  </tr>
+  <tr>
+    <th /><a href="FPAW1.html">Vanilla</a>
+    <th /><a href="FPAW2.html">Vanilla</a>
+    <th /><a href="FPAW3.html">Vanilla</a>
+    <th /><a href="FPAW1R.html">Vanilla (ca. 2016)</a>
+    <th /><a href="ME2D.html">Vanilla</a>
+  </tr>
+  <tr>
+    <th /><a href="FPAW1M.html">Enhanced</a>
+    <th /><a href="FPAW2M.html">Enhanced</a>
+    <th /><a href="FPAW3M.html">Enhanced</a>
+    <th /><a href="FPAW1RM.html">Vanilla (Cutie Pants)</a>
+    <th /><a href="ME2DM.html">Enhanced</a>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Flash versions (needs Flash Player)</th>
+  </tr>
+  <tr>
+    <th />FPW1
+    <th />FPW2
+    <th />FPW3
+    <th />FPW1R
+    <th />ME2D
+  </tr>
+  <tr>
+    <th /><a href="FPAW1.html">Vanilla</a>
+    <th /><a href="FPAW2.html">Vanilla</a>
+    <th /><a href="FPAW3.html">Vanilla</a>
+    <th /><a href="FPAW1R.html">Vanilla (ca. 2016)</a>
+    <th /><a href="ME2D.html">Vanilla</a>
+  </tr>
+  <tr>
+    <th /><a href="FPAW1M.html">Enhanced</a>
+    <th /><a href="FPAW2M.html">Enhanced</a>
+    <th /><a href="FPAW3M.html">Enhanced</a>
+    <th /><a href="FPAW1RM.html">Vanilla (Cutie Pants)</a>
+    <th /><a href="ME2DM.html">Enhanced</a>
+  </tr>
+</table>
