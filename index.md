@@ -4,13 +4,10 @@ layout: default
 <title>Fancy Pants Archive</title>
 <style>
 body{color:#aaa;}
-table, th, td {border: 1px solid #aaa;
-a:link{color:#f90;}
-a:link:active{color:#9f0;}
-a:visited{color:#90f;}
-a:visited:active{color:#f09;}
-}
-table{width: 100%; align: middle;}
+table, th, td {border: 1px solid #aaa; align: middle;}
+table{width: 100%;}
+a{color:#f90;}
+a:active{color:#90f;}
 </style>
 
 <table>
@@ -30,11 +27,11 @@ table{width: 100%; align: middle;}
     <td /><a href="Ruffle Branch/ME2D.html">Vanilla</a>
   </tr>
   <tr>
-    <th /><a href="Ruffle Branch/FPAW1M.html">Enhanced</a>
-    <th /><a href="Ruffle Branch/FPAW2M.html">Enhanced</a>
-    <th /><a href="Ruffle Branch/FPAW3M.html">Enhanced</a>
-    <th /><a href="Ruffle Branch/FPAW1RM.html">Vanilla (Cutie Pants)</a>
-    <th /><a href="Ruffle Branch/ME2DM.html">Enhanced</a>
+    <td /><a href="Ruffle Branch/FPAW1M.html">Enhanced</a>
+    <td /><a href="Ruffle Branch/FPAW2M.html">Enhanced</a>
+    <td /><a href="Ruffle Branch/FPAW3M.html">Enhanced</a>
+    <td /><a href="Ruffle Branch/FPAW1RM.html">Vanilla (Cutie Pants)</a>
+    <td /><a href="Ruffle Branch/ME2DM.html">Enhanced</a>
   </tr>
 </table>
 <br />
