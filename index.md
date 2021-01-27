@@ -30,10 +30,11 @@ a:active{color:#90f;}
     <td /><a href="Ruffle Branch/FPAW1M.html">Enhanced</a>
     <td /><a href="Ruffle Branch/FPAW2M.html">Enhanced</a>
     <td /><a href="Ruffle Branch/FPAW3M.html">Enhanced</a>
-    <td /><a href="Ruffle Branch/FPAW1RM.html">Vanilla (Cutie Pants)</a>
+    <td /><a href="Ruffle Branch/FPAW1RM.html">Vanilla (Remastered)</a>
     <td /><a href="Ruffle Branch/ME2DM.html">Enhanced</a>
   </tr>
 </table>
+<p />DISCLAIMER: the Ruffle branch uses Ruffle, a work in progress emulator for Flash. Expect bugs!
 <br />
 <table>
   <th colspan = "5" align = "center" />Flash versions (needs Flash Player)
@@ -55,7 +56,7 @@ a:active{color:#90f;}
     <td /><a href="Legacy Branch/FPAW1M.html">Enhanced</a>
     <td /><a href="Legacy Branch/FPAW2M.html">Enhanced</a>
     <td /><a href="Legacy Branch/FPAW3M.html">Enhanced</a>
-    <td /><a href="Legacy Branch/FPAW1RM.html">Vanilla (Cutie Pants)</a>
+    <td /><a href="Legacy Branch/FPAW1RM.html">Vanilla (Remastered)</a>
     <td /><a href="Legacy Branch/ME2DM.html">Enhanced</a>
   </tr>
 </table>
